@@ -3,3 +3,6 @@ rencana membuat landingpage
 1. menggunakan ci4
 2. php 
 3. html
+
+menambahkan framework 
+1. bootstrap 4
